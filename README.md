@@ -5,4 +5,4 @@ But the truth is far more complicated than this cute litte assumption.
 
 The codes are writen for numerical calculations.
 
-I might come back and think about this problem one day. Who knows.
+I might come back and think about this problem one day. 
